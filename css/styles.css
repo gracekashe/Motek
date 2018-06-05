@@ -1,0 +1,32 @@
+body {
+  background-image: url("../images/backg.jpg");
+  background-attachment: fixed;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.topnav a {
+  color: #000206;
+  padding: 30px;
+  text-align: left;
+  float: left;
+  font-size: 20px;
+  /*background-color: #F3F4F7;*/
+}
+
+.intro {
+  padding: 15px;
+  background-color: #F3F4F7;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  background-color: #F3F4F7;
+  text-align: justify;
+  color: #000206;
+  margin-top: 10px;
+}
